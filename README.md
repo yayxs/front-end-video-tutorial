@@ -1,4 +1,4 @@
-:point_right: [读书写作思考……](https://github.com/yayxs/writing-docs/issues)
+:point_right: [读书写作思考……](https://github.com/yayxs/reading-thinking-writing/issues)
 
 <hr />
 
@@ -45,7 +45,7 @@
 
 > 较好的一本入门书
 
-- :notebook_with_decorative_cover: **《CSS 世界》**作者 张鑫旭
+- :notebook_with_decorative_cover:**《CSS 世界》** 作者 张鑫旭
 
 > 以“流”为线索，从结构、内容到美化装饰等方面，全面且深入地讲解前端开发人员必须了解和掌握的大量的 CSS 知识点
 
@@ -73,12 +73,12 @@
 >
 > 下卷主要讲了对 ES6 以及未来发展的趋势展望
 
-- :ledger: **《高性能 JavaScript》 **
+- :ledger: **《高性能 JavaScript》**
 - :notebook: **《JavaScript 语言精粹》**
 
 - :closed_book: **《网道 JavaScript 教程 阮一峰》**
 
-- :green_book: **《ES6 标准入门 阮一峰》 **
+- :green_book: **《ES6 标准入门 阮一峰》**
 
 - :blue_book: **《深入理解 ES6》**
 
