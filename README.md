@@ -1,5 +1,3 @@
-:point_right: [读书写作思考……](https://github.com/yayxs/reading-thinking-writing/issues)
-
 <hr />
 
 ## :bookmark_tabs:Web 大前端书籍推荐分享（JavaScript 等）
