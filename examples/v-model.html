@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <div id="app">
+      <input type="text" id="ipt" />
+    </div>
+    <script>
+      let dom = document.querySelector("#ipt");
+
+      const evtHandler = (e) => {
+        console.log(e.target.value);
+        dom.value = e.target.value;
+      };
+      dom.addEventListener("input", evtHandler);
+    </script>
+  </body>
+</html>
