@@ -1,0 +1,22 @@
+<mxfile host="65bd71144e" modified="2020-10-09T01:11:40.454Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.50.0 Chrome/83.0.4103.122 Electron/9.2.1 Safari/537.36" version="13.6.5" etag="CKi88EagcLrLHbla02dK">
+    <diagram id="HOcgkfu1qyiehtoI5ZfT" name="第 1 页">
+        <mxGraphModel dx="375" dy="276" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="12" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" vertex="1" parent="1">
+                    <mxGeometry x="40" y="50" width="120" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="12" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" vertex="1" parent="1">
+                    <mxGeometry x="210" y="50" width="100" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="按钮" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" vertex="1" parent="1">
+                    <mxGeometry x="130" y="120" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="24" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" vertex="1" parent="1">
+                    <mxGeometry x="70" y="200" width="270" height="40" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
