@@ -19,13 +19,13 @@ git  branch -a
 ```
 
 ```bash
- books-share
-* master
-  vue3-learn
-  vuepress-site
+* front-end-interview
+  master
   remotes/origin/HEAD -> origin/master
   remotes/origin/books-share
   remotes/origin/master
+  remotes/origin/typescript-share
+  remotes/origin/vue3-learn
   remotes/origin/vuepress-site
 ```
 
@@ -41,6 +41,8 @@ git checkout xxx // xxx 代表你想切换的分支
 | ----------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | **vuepress-site** | [https://github.com/yayxs/bilibili-video-tutorial/tree/vuepress-site](https://github.com/yayxs/bilibili-video-tutorial/tree/vuepress-site) | [2020 年 9 月更新 基于 VuePress 轻松实现个人博客站点教程](https://www.bilibili.com/video/BV1gT4y177Lv/) |
 | **books-share**   | [https://github.com/yayxs/bilibili-video-tutorial/tree/books-share](https://github.com/yayxs/bilibili-video-tutorial/tree/books-share) | [Web 大前端书籍推荐分享（JavaScript 等）](https://www.bilibili.com/video/BV1sA411i72g) |
+
+| **front-end-interview**   | [https://github.com/yayxs/bilibili-video-tutorial/tree/front-end-interview](https://github.com/yayxs/bilibili-video-tutorial/tree/front-end-interview) | [前端TOP-FE_IQA面试分享]() |
 
 ## Author
 
