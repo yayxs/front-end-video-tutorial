@@ -20,8 +20,9 @@ var evtHandler = function () {
   var val1 = ipt1.value;
   var val2 = ipt2.value;
   console.log(sum(val1, val2));
+  // 伪数组 集合
   let domShow = document.getElementsByClassName("show-sum")[0];
-  //   console.log(domShow);
+  console.log(domShow);
   domShow.innerHTML = sum(val1, val2);
 };
 btn.addEventListener("click", evtHandler);
