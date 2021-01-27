@@ -1,1 +1,6 @@
+/vue-next
 
+node_modules
+.DS_Store
+dist
+*.local
