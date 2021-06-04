@@ -1,0 +1,1 @@
+import{o as t,c as e,a as r}from"./app.113f47ec.js";const a='{"title":"","description":"","frontmatter":{},"relativePath":"index.md","lastUpdated":1622819049601}',n={},i=r("p",null,"vitepress 手摸手新建一个静态博客站点",-1);n.render=function(r,a,n,o,p,s){return t(),e("div",null,[i])};export default n;export{a as __pageData};

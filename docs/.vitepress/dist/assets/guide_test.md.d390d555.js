@@ -1,0 +1,1 @@
+import{o as t,c as e,a as r}from"./app.113f47ec.js";const a='{"title":"","description":"","frontmatter":{},"relativePath":"guide/test.md","lastUpdated":1622819420470}',n={},o=r("p",null,"我是test页面",-1);n.render=function(r,a,n,s,d,i){return t(),e("div",null,[o])};export default n;export{a as __pageData};
