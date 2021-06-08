@@ -1,16 +1,24 @@
 {
-  "name": "vuepress-site",
+  "name": "nuxt-blog-app",
   "version": "1.0.0",
-  "description": "A blog ",
-  "main": "index.js",
-  "repository": "https://github.com/yayxs/reading-thinking-writing.git",
+  "repository": "https://github.com/yayxs/vast-video-tutorial.git",
   "author": "yayxs <leaderywl@163.com>",
   "license": "MIT",
   "scripts": {
-    "docs:dev": "vuepress dev docs",
-    "docs:build": "vuepress build docs"
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "generate": "nuxt generate",
+    "start": "nuxt start"
+  },
+  "dependencies": {
+    "nuxt": "^2.15.6"
   },
   "devDependencies": {
-    "vuepress": "^1.5.4"
+    "cz-conventional-changelog": "^3.3.0"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
   }
 }
