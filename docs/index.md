@@ -57,7 +57,7 @@ git checkout xxx // xxx 代表你想切换的分支
 
 
 ## Update Record
-
+ - 2021年06月10号 ：包管理修改为`pnpm`
  - 2021年06月04号 ：主要修改了仓库的名字（bilibili-video-tutorial 修改为了 vast-video-tutorial）
     - 新增了 `vitepess` 新建站点的分享（包含部署上线）
  - 2020年11月19日：主要迁移了前端面试（TOP-FE-IQA的代码）包括：JS数组的去重 + 手写new操作符 等等（详细代码请在 front-end-interview 这个分支查看 ）
