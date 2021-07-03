@@ -92,7 +92,7 @@
 
 - :notebook: **《HTTP 权威指南》**
 
-> 那么请问地址栏输入 URL 发生了什么，哈哈
+
 
 - :orange_book: **《图解 HTTP》**
 
