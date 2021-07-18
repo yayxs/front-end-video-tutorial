@@ -79,6 +79,6 @@
 - 有关文章涉及的导图在线 [语雀@洋小洋同学](https://www.yuque.com/yayxs/computer-network-learn) 
 
 - 有关文章涉及思维导图可以关注 前端厚说 回复 "vast"
-- 我这边同样整理了有关网络合集的仓库 [GitHub](https://github.com/yayxs/computer-network-learn)
+- 我这边同样把文章托管到了 `GitHub`-[vast-video-tutorial](https://github.com/yayxs/vast-video-tutorial)
 
 - 关注 `前端厚说` 回复 “图解HTTP” 得到此书的电子版
