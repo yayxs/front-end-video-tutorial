@@ -6,7 +6,7 @@
   "license": "MIT",
   "devDependencies": {
     "cz-conventional-changelog": "^3.3.0",
-    "vitepress": "^0.14.0"
+    "vitepress": "1.0.0-alpha.36"
   },
   "config": {
     "commitizen": {
@@ -14,8 +14,12 @@
     }
   },
   "scripts": {
+    "dd": "vitepress dev docs",
     "docs:dev": "vitepress dev docs",
     "docs:build": "vitepress build docs",
     "docs:serve": "vitepress serve docs"
+  },
+  "dependencies": {
+    "vue": "^3.2.45"
   }
 }
