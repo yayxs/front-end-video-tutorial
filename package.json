@@ -6,7 +6,9 @@
   "license": "MIT",
   "devDependencies": {
     "cz-conventional-changelog": "^3.3.0",
-    "vitepress": "1.0.0-alpha.36"
+    "mermaid": "9.1.7",
+    "vitepress": "1.0.0-alpha.36",
+    "vitepress-plugin-mermaid": "^2.0.8"
   },
   "config": {
     "commitizen": {
@@ -20,6 +22,7 @@
     "docs:serve": "vitepress serve docs"
   },
   "dependencies": {
+    "@antv/g2plot": "^2.4.23",
     "vue": "^3.2.45"
   }
 }
