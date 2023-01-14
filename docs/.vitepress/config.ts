@@ -39,8 +39,15 @@ export default withMermaid(
         // '/config/': sidebarConfig(),
       },
       footer: {
-        message: '微信公众号 前端厚说 ',
-        copyright: 'Copyright © 2020-present vanlee',
+        message: '微信公众号 前端诗人',
+        copyright: `<a
+        title="京ICP备2021023212号"
+        style="color:#409eff"
+        href="https://beian.miit.gov.cn/#/Integrated/recordQuery"
+        target="_blank"
+      >
+        京ICP备2021023212号-1
+      </a> © 2020-present vanlee`,
       },
     },
   })
