@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 export default withMermaid(
   defineConfig({
     lang: 'en-US',
-    title: 'UP视频分享',
+    title: '前端厚说-UP视频分享',
     description: 'vanlee 免费视频系列教程分享',
 
     lastUpdated: true,
