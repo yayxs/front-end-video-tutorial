@@ -1,28 +1,12 @@
 {
   "name": "vast-video-tutorial",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "repository": "https://github.com/yayxs/vast-video-tutorial",
-  "author": "yayxs <leaderywl@163.com>",
   "license": "MIT",
-  "devDependencies": {
-    "cz-conventional-changelog": "^3.3.0",
-    "mermaid": "9.1.7",
-    "vitepress": "1.0.0-alpha.36",
-    "vitepress-plugin-mermaid": "^2.0.8"
-  },
+  "devDependencies": {},
   "config": {
-    "commitizen": {
-      "path": "./node_modules/cz-conventional-changelog"
-    }
+    "commitizen": {}
   },
-  "scripts": {
-    "dd": "vitepress dev docs",
-    "docs:dev": "vitepress dev docs",
-    "docs:build": "vitepress build docs",
-    "docs:serve": "vitepress serve docs"
-  },
-  "dependencies": {
-    "@antv/g2plot": "^2.4.23",
-    "vue": "^3.2.45"
-  }
+  "scripts": {},
+  "dependencies": {}
 }
